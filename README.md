@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kashifwahaj
-- 👀 I’m interested in Full Stack Web and Mobile Developer
+- 👀 I’m a Full Stack Web and Mobile Developer
 - 🌱 I’m currently learning Automation Testing and DevOps
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me @kashifwahaj everywhere.
